@@ -1,6 +1,6 @@
 name: JohnWeiss
 favicon: null
-layout_spectrum: 0.9573818952776492
+layout_spectrum: 0.25241
 typography_spectrum: 0.5494223542045802
 title: JohnWeiss
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#fefefe'
+    - '#000000'
+    - '#dedede'
+    - '#5f5e5f'
+    - '#939192'
   brandStrength: 0.08888699021190405
   lightness: 0.7016685514245182
   saturation: 0.9570617680437863
